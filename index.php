@@ -19,7 +19,7 @@
     <h1>Online-amooz</h1>
     <p>please choose a photo to send:</p>
     <form action="#" method="post">
-        <input type="file" name="piture" id="">
+        <input type="file" name="picture" id="">
     </form>
 </body>
 </html>
